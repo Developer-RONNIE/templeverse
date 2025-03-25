@@ -18,7 +18,9 @@ This project is a beautifully designed Responsive Temple Website built with HTML
 ### 🚀 How to Use
 
 1. Clone the repository:
-   
+```bash
+git clone https://github.com/Developer-RONNIE/templeverse
+```   
 2. Open the index.html file in a browser.
 3. Enjoy the smooth animations and interactive design!
 
