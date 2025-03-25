@@ -13,9 +13,9 @@ This project is a beautifully designed Responsive Temple Website built with **HT
 - A clean and immersive UI for a delightful browsing experience.
 
 ### 🛠️ Technologies Used
--HTML5 – For structuring the website.
--CSS3 – For styling and layout.
--JavaScript (GSAP & Sakura.js) – For animations and interactive effects.
+- **HTML5** – For structuring the website.
+- **CSS3** – For styling and layout.
+- **JavaScript (GSAP & Sakura.js)** – For animations and interactive effects.
 
 ### 🚀 How to Use
 
