@@ -1,14 +1,16 @@
 # Responsive Temple Website
 ## 📌 Project Overview
-This project is a beautifully designed Responsive Temple Website built with HTML, CSS, and JavaScript. The website features smooth animations and a serene aesthetic, making it visually appealing on all devices.
+This project is a beautifully designed Responsive Temple Website built with **HTML**, **CSS**, and **JavaScript**. The website features smooth animations and a serene aesthetic, making it visually appealing on all devices.
 
 ### ✨ Features
-
--Fully Responsive Design – Optimized for both mobile and desktop using a mobile-first approach.
--GSAP Animations – Engaging animations powered by the GreenSock Animation Platform (GSAP).
--Sakura Petals Effect – Softly falling animated petals using the Sakura.js library.
--User-Friendly Interface – A clean and immersive UI for a delightful browsing experience.
--Cross-Browser Compatibility – Works seamlessly on all modern web browsers.
+- Fully Responsive Design 
+- Optimized for both mobile and desktop using a mobile-first approach.
+- GSAP Animations
+- Engaging animations powered by the GreenSock Animation Platform (GSAP).
+- Sakura Petals Effect
+- Softly falling animated petals using the Sakura.js library.
+- User-Friendly Interface
+- A clean and immersive UI for a delightful browsing experience.
 
 ### 🛠️ Technologies Used
 -HTML5 – For structuring the website.
