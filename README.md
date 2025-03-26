@@ -19,6 +19,16 @@ This project is a beautifully designed Responsive Temple Website built with **HT
 - **CSS3** – For styling and layout.
 - **JavaScript (GSAP & Sakura.js)** – For animations and interactive effects.
 
+### 🔗 Resources
+- **Icons**: https://remixicon.com/
+- **CDN Icons**: https://cdnjs.com/libraries/remixicon
+- **Fonts**: https://fonts.google.com/
+- **JS Functions**: https://github.com/bedimcode/responsi...
+- **Gsap**: https://gsap.com/
+- **Snow Js**: https://embed.im/snow/
+- **Original Images**: https://www.freepik.es/
+
+
 ### 🚀 How to Use
 
 1. Clone the repository:
